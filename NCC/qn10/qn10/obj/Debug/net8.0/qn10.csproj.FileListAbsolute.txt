@@ -1,0 +1,14 @@
+F:\kamana_ncc\qn10\qn10\obj\Debug\net8.0\qn10.GeneratedMSBuildEditorConfig.editorconfig
+F:\kamana_ncc\qn10\qn10\obj\Debug\net8.0\qn10.AssemblyInfoInputs.cache
+F:\kamana_ncc\qn10\qn10\obj\Debug\net8.0\qn10.AssemblyInfo.cs
+F:\kamana_ncc\qn10\qn10\obj\Debug\net8.0\qn10.csproj.CoreCompileInputs.cache
+F:\kamana_ncc\qn10\qn10\bin\Debug\net8.0\qn10.exe
+F:\kamana_ncc\qn10\qn10\bin\Debug\net8.0\qn10.deps.json
+F:\kamana_ncc\qn10\qn10\bin\Debug\net8.0\qn10.runtimeconfig.json
+F:\kamana_ncc\qn10\qn10\bin\Debug\net8.0\qn10.dll
+F:\kamana_ncc\qn10\qn10\bin\Debug\net8.0\qn10.pdb
+F:\kamana_ncc\qn10\qn10\obj\Debug\net8.0\qn10.dll
+F:\kamana_ncc\qn10\qn10\obj\Debug\net8.0\refint\qn10.dll
+F:\kamana_ncc\qn10\qn10\obj\Debug\net8.0\qn10.pdb
+F:\kamana_ncc\qn10\qn10\obj\Debug\net8.0\qn10.genruntimeconfig.cache
+F:\kamana_ncc\qn10\qn10\obj\Debug\net8.0\ref\qn10.dll
