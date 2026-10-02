@@ -1,0 +1,26 @@
+﻿@model BookCrudApp.Models.Book
+
+<h1>Create Book</h1>
+
+<form asp-action="Create" method="post">
+
+    <div>
+        <label asp-for="Title"></label>
+        <input asp-for="Title" />
+    </div>
+
+    <div>
+        <label asp-for="Author"></label>
+        <input asp-for="Author" />
+    </div>
+
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" />
+    </div>
+
+    <button type="submit">Create</button>
+
+</form>
+
+<a asp-action="Index">Back to List</a>
